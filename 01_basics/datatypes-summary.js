@@ -31,3 +31,6 @@ Return type of variables in JavaScript
        Function  =>  function
        Object  =>  object
        */
+
+       //primitive - stack, non-primitive - heap
+       
