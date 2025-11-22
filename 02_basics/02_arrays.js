@@ -6,7 +6,7 @@
 // const concatArr = marvel.concat(dc)
 // console.log(concatArr);
 
-// const allNewHeros = [...marvel,...dc]
+// const allNewHeros = [...marvel,...dc] // merging two arrays
 // console.log(allNewHeros);
 
 // const Array = [1,2,[3,4,5,6],4,8,[4,[5,6]]]
